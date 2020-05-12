@@ -1,0 +1,116 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
+
+
+
+#header1-f H1 {
+  color: #233443;
+  text-align: center;
+}
+#header1-f P {
+  color: #000000;
+}
+#dropdown-menu-0 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-0 .nav .link,
+#dropdown-menu-0 .dropdown-item {
+  font-size: 0.8em;
+  color: #233443;
+  font-family: 'Ubuntu', sans-serif;
+}
+#dropdown-menu-0 .navbar,
+#dropdown-menu-0 .dropdown-menu {
+  background: #ec624c;
+}
+#dropdown-menu-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-0 .dropdown-menu a:hover,
+#dropdown-menu-0 .dropdown-menu a:focus {
+  background: #ea523a;
+}
+#dropdown-menu-0 .navbar-toggler {
+  color: #233443;
+}
+#dropdown-menu-0 A {
+  font-size: 9px;
+  font-family: 'Montserrat', sans-serif;
+}
+#msg-box4-i .mbr-section-title {
+  text-align: right;
+  color: #ec624c;
+}
+#msg-box4-i .lead P {
+  text-align: right;
+}
+#msg-box4-i .lead {
+  color: #f8f8f6;
+}
+#msg-box3-h .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-h .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-h .mbr-section-title {
+  color: #233443;
+  text-align: center;
+  font-size: 36px;
+}
+#msg-box3-h .lead {
+  color: #e6e0dc;
+}
+#form2-c .mbr-section-title {
+  color: #ec624c;
+}
+#contacts1-d P {
+  font-family: 'Open Sans', sans-serif;
+  color: #233443;
+}
+#footer1-10 P {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 11px;
+  color: #233443;
+}
+
+
+
+
+#dropdown-menu-k .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-k .nav .link,
+#dropdown-menu-k .dropdown-item {
+  font-size: 0.8em;
+  color: #233443;
+  font-family: 'Ubuntu', sans-serif;
+}
+#dropdown-menu-k .navbar,
+#dropdown-menu-k .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-k .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-k .dropdown-menu a:hover,
+#dropdown-menu-k .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-k .navbar-toggler {
+  color: #233443;
+}
+#dropdown-menu-k A {
+  font-size: 9px;
+  font-family: 'Montserrat', sans-serif;
+}
+#form2-o .mbr-section-title {
+  color: #233443;
+}
+#contacts1-p P {
+  font-family: 'Open Sans', sans-serif;
+  color: #233443;
+}
+#footer1-10 P {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 11px;
+  color: #233443;
+}

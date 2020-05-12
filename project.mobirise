@@ -1,0 +1,762 @@
+{
+  "settings": {
+    "currentPage": "proyectos-producto.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {},
+      "titlePreset": "Landing Page",
+      "nameSelectPreset": "landing",
+      "additionalSetColors": [
+        "#233443",
+        "#ec624c",
+        "#ff0446"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "name": "Yulia Mykha | Design Portfolio",
+    "versionFirst": "4.12.3",
+    "siteFonts": [],
+    "imageResize": true,
+    "robotsSwitcher": true,
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "sitemapSwitcher": false,
+    "siteUrl": false,
+    "sitemapSwitcherAuto": "on",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-mykha-11-11-128x168.png",
+    "cookiesAlert": {
+      "customDialogSelector": false,
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "opacityOverlay": "80",
+      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+      "textButton": "Agree"
+    },
+    "gdpr": false,
+    "uniqCompNum": 37,
+    "versionPublish": "4.12.3",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Yulia Mykha | Design Portfolio",
+        "meta_descr": "Mykha Design es un estudio creativo donde se gestan las ideas más inusuales para dar rienda suelta a tus deseos. Favorecemos el crecimiento de tu marca y ayudamos a impulsar tu negocio.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-1.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ec624c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "Design Product <br>&amp; Things",
+          "text": "Mykha Design es un estudio creativo donde se gestan las ideas más inusuales para dar rienda suelta a tus deseos. Favorecemos el crecimiento de tu marca y ayudamos a impulsar tu negocio. Tu crecimiento es nuestra pasión.<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Learn More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-f",
+          "_styles": {
+            "H1": {
+              "color": "#233443",
+              "text-align": "center"
+            },
+            "P": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "0.8em",
+              "color": "#233443",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-family": "'Ubuntu', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ec624c"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#ea523a"
+            },
+            ".navbar-toggler": {
+              "color": "#233443"
+            },
+            "A": {
+              "font-size": "9px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": false,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Ubuntu",
+              "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "css": "'Ubuntu', sans-serif"
+            },
+            "fontColor": "#233443"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home |</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Proyectos |</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Producto</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Editorial</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Gráfico</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Blog |</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Sobre mi |</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Contacto |</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/loguito-14-128x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-0"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "14",
+            "paddingTop": "0",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/tumblr_obal13fglx1uu9fqho1-501-707x500.png",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#233443",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": "0"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/ansley-ventura-sixow9s9a-unsplash-1400x2100.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Quién está detrás",
+          "text": "<p>Mobirise helps you cut down development time by providing you with a flexible website editor. Mobirise helps you cut down development time by providing you with a flexible website editor.Mobirise helps you cut down development time by providing you with a flexible website editor.Mobirise helps you cut down development time by providing you with a flexible website editor.Mobirise helps you cut down development time by providing you with a flexible website editor.Mobirise helps you cut down development time by providing you with a flexible website editor.Mobirise helps you cut down development time by providing you with a flexible website editor.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-i",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "right",
+              "color": "#ec624c"
+            },
+            ".lead P": {
+              "text-align": "right"
+            },
+            ".lead": {
+              "color": "#f8f8f6"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#233443",
+              "text-align": "center",
+              "font-size": "36px"
+            },
+            ".lead": {
+              "color": "#e6e0dc"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ec624c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Proyectos destacados",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Échale un ojo a nuestra galería de trabajos destacados y visita nuestra página de proyectos de portfolio desde aquí.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-secondary-outline\" href=\"proyectos-producto.html#gallery1-n\" data-toolbar=\"-mbrBtnMove\">Pulsa aquí</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-h"
+        },
+        {
+          "_params": {
+            "showBullets": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ec624c",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/essentialiving-ar-afd9nyju-unsplash-2000x1335.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/essentialiving-ar-afd9nyju-unsplash-2000x1335-800x534.jpg",
+                "alt": "book binding graphic design yulia mykha project product Valencia",
+                "title": "Book Binding Design",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/deanna-alys-6lbbowkpzyq-unsplash-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/deanna-alys-6lbbowkpzyq-unsplash-2000x1333-800x533.jpg",
+                "alt": "cocooil body oil coco design packaging product graphic Yulia Mykha design Valencia 2020",
+                "title": "Cocooil Packaging",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/hubble-zb-khmjagl4-unsplash-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hubble-zb-khmjagl4-unsplash-2000x1334-800x534.jpg",
+                "alt": "Soap branding packaging graphic design product Yulia Mykha Design 2020",
+                "title": "Soap Packaging",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/andrey-trush-w0gf-h1oq28-unsplash-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/andrey-trush-w0gf-h1oq28-unsplash-2000x1334-800x534.jpg",
+                "alt": "mortar product design wood wooden industrial Yulia Mykha Design Valencia",
+                "title": "Mortar Design",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/andrey-trush-w0gf-h1oq28-unsplash-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/andrey-trush-w0gf-h1oq28-unsplash-2000x1334-800x534.jpg",
+                "alt": "mortar product design wood wooden industrial Yulia Mykha Design Valencia",
+                "title": "Mortar Design",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/hubble-zb-khmjagl4-unsplash-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hubble-zb-khmjagl4-unsplash-2000x1334-800x534.jpg",
+                "alt": "Soap branding packaging graphic design product Yulia Mykha Design 2020",
+                "title": "Soap Packaging",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/deanna-alys-6lbbowkpzyq-unsplash-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/deanna-alys-6lbbowkpzyq-unsplash-2000x1333-800x533.jpg",
+                "alt": "cocooil body oil coco design packaging product graphic Yulia Mykha design Valencia 2020",
+                "title": "Cocooil Packaging",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/essentialiving-ar-afd9nyju-unsplash-2000x1335.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/essentialiving-ar-afd9nyju-unsplash-2000x1335-800x534.jpg",
+                "alt": "book binding graphic design yulia mykha project product Valencia",
+                "title": "Book Binding Design",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-3"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#233443",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "¡Suscríbete para que te lleguen nuestras novedades!",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Suscribir</a>",
+          "form": {
+            "action": "y.mykhaylovych.alum01@easdvalencia.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-c",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ec624c"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/favicon-mykha-11-265x265.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<p><strong>Contáctame</strong>&nbsp; &nbsp;<span style=\"font-size: 1rem;\">&nbsp;—</span></p><p>hi@designmykha.com<br>(+34) 675 41 55 55</p>",
+          "text2": "<p><b>Proyectos actuales</b>&nbsp;&nbsp;&nbsp;&nbsp;—<br>Proyecto 1<br>Proyecto 2<br>Proyecto 3</p>",
+          "text3": "<p><strong>Sígueme por </strong>&nbsp;&nbsp;&nbsp;&nbsp;<strong>—</strong></p><p>Intagram<br><span style=\"font-size: 1rem;\">Linked-in<br></span><span style=\"font-size: 1rem;\">Facebook</span></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-d",
+          "_styles": {
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#233443"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "© 2020 All rights reserved | Design made with &lt;3 by Yulia Mykha . <a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-10",
+          "_styles": {
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "11px",
+              "color": "#233443"
+            }
+          }
+        }
+      ]
+    },
+    "proyectos-producto.html": {
+      "settings": {
+        "title": "Yulia Mykha | Design Portfolio | Proyectos-Producto",
+        "meta_descr": "Galería de proyectos destacados del estudio creativo y de diseño Mykha Design. Somos especialistas en sorprender.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "Producto",
+          "meta": "By John Smith posted July 30, 2015",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-x"
+        },
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "0.8em",
+              "color": "#233443",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-family": "'Ubuntu', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#233443"
+            },
+            "A": {
+              "font-size": "9px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": false,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Ubuntu",
+              "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "css": "'Ubuntu', sans-serif"
+            },
+            "fontColor": "#233443"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home |</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Proyectos |</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Producto</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Editorial</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Gráfico</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Blog |</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Sobre mi |</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Contacto |</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/loguito-14-128x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-k"
+        },
+        {
+          "_params": {
+            "showBullets": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/essentialiving-ar-afd9nyju-unsplash-2000x1335.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/essentialiving-ar-afd9nyju-unsplash-2000x1335-800x534.jpg",
+                "alt": "book binding graphic design yulia mykha project product Valencia",
+                "title": "Book Binding Design",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/deanna-alys-6lbbowkpzyq-unsplash-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/deanna-alys-6lbbowkpzyq-unsplash-2000x1333-800x533.jpg",
+                "alt": "cocooil body oil coco design packaging product graphic Yulia Mykha design Valencia 2020",
+                "title": "Cocooil Packaging",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/hubble-zb-khmjagl4-unsplash-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hubble-zb-khmjagl4-unsplash-2000x1334-800x534.jpg",
+                "alt": "Soap branding packaging graphic design product Yulia Mykha Design 2020",
+                "title": "Soap Packaging ",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/andrey-trush-w0gf-h1oq28-unsplash-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/andrey-trush-w0gf-h1oq28-unsplash-2000x1334-800x534.jpg",
+                "alt": "mortar product design wood wooden industrial Yulia Mykha Design Valencia",
+                "title": "Mortar Design",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/andrey-trush-w0gf-h1oq28-unsplash-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/andrey-trush-w0gf-h1oq28-unsplash-2000x1334-800x534.jpg",
+                "alt": "mortar product design wood wooden industrial Yulia Mykha Design Valencia",
+                "title": "Mortar Design",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/hubble-zb-khmjagl4-unsplash-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hubble-zb-khmjagl4-unsplash-2000x1334-800x534.jpg",
+                "alt": "Soap branding packaging graphic design product Yulia Mykha Design 2020",
+                "title": "Soap Packaging",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/deanna-alys-6lbbowkpzyq-unsplash-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/deanna-alys-6lbbowkpzyq-unsplash-2000x1333-800x533.jpg",
+                "alt": "cocooil body oil coco design packaging product graphic Yulia Mykha design Valencia 2020",
+                "title": "Cocooil Packaging",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/essentialiving-ar-afd9nyju-unsplash-2000x1335.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/essentialiving-ar-afd9nyju-unsplash-2000x1335-800x534.jpg",
+                "alt": "book binding graphic design yulia mykha project product Valencia",
+                "title": "Book Binding Design",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/essentialiving-ar-afd9nyju-unsplash-2000x1335.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/essentialiving-ar-afd9nyju-unsplash-2000x1335-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/deanna-alys-6lbbowkpzyq-unsplash-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/deanna-alys-6lbbowkpzyq-unsplash-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/hubble-zb-khmjagl4-unsplash-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hubble-zb-khmjagl4-unsplash-2000x1334-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/andrey-trush-w0gf-h1oq28-unsplash-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/andrey-trush-w0gf-h1oq28-unsplash-2000x1334-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-n"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": "4",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "¡Suscríbete para que te lleguen nuestras novedades!",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Suscribir</a>",
+          "form": {
+            "action": "y.mykhaylovych.alum01@easdvalencia.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#233443"
+            }
+          },
+          "_anchor": "form2-o"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/favicon-mykha-11-265x265.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<p><strong>Contáctame</strong>&nbsp; &nbsp;<span style=\"font-size: 1rem;\">&nbsp;—</span></p><p>hi@designmykha.com<br>(+34) 675 41 55 55</p>",
+          "text2": "<p><b>Proyectos actuales</b>&nbsp;&nbsp;&nbsp;&nbsp;—<br>Proyecto 1<br>Proyecto 2<br>Proyecto 3</p>",
+          "text3": "<p><strong>Sígueme por </strong>&nbsp;&nbsp;&nbsp;&nbsp;<strong>—</strong></p><p>Intagram<br><span style=\"font-size: 1rem;\">Linked-in<br></span><span style=\"font-size: 1rem;\">Facebook</span></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#233443"
+            }
+          },
+          "_anchor": "contacts1-p"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "© 2020 All rights reserved | Design made with &lt;3 by Yulia Mykha . <a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-10",
+          "_styles": {
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "11px",
+              "color": "#233443"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

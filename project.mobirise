@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "proyectos-producto.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -124,7 +124,7 @@
             "hideButtons": true,
             "sticky": false,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#ec624c",
             "fontSize": "0.8",
             "fontName": {
               "name": "Ubuntu",
@@ -133,16 +133,17 @@
             },
             "fontColor": "#233443"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home |</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Proyectos |</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Producto</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Editorial</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Gráfico</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Blog |</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Sobre mi |</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Contacto |</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home |</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Proyectos |</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"proyectos-producto.html\">Producto</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Editorial</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Gráfico</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Blog |</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Sobre mi |</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Contacto |</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/loguito-14-128x128.png",
               "class": "",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "logo Yulia Mykhaylovych Mykha Studio Design Portfolio",
               "link": "index.html",
-              "title": ""
+              "title": "Logo Mykha Studio",
+              "linkInNewWindow": false
             }
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
@@ -389,7 +390,7 @@
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#ec624c",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -410,7 +411,7 @@
             }
           },
           "text1": "<p><strong>Contáctame</strong>&nbsp; &nbsp;<span style=\"font-size: 1rem;\">&nbsp;—</span></p><p>hi@designmykha.com<br>(+34) 675 41 55 55</p>",
-          "text2": "<p><b>Proyectos actuales</b>&nbsp;&nbsp;&nbsp;&nbsp;—<br>Proyecto 1<br>Proyecto 2<br>Proyecto 3</p>",
+          "text2": "<p><b>Proyectos actuales</b>&nbsp;&nbsp;&nbsp;&nbsp;—</p><p>Proyecto 1<br>Proyecto 2<br>Proyecto 3</p>",
           "text3": "<p><strong>Sígueme por </strong>&nbsp;&nbsp;&nbsp;&nbsp;<strong>—</strong></p><p>Intagram<br><span style=\"font-size: 1rem;\">Linked-in<br></span><span style=\"font-size: 1rem;\">Facebook</span></p>",
           "alias": "purity/components",
           "_tags": [
@@ -434,7 +435,7 @@
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#ec624c",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -493,10 +494,10 @@
               "font-family": "'Ubuntu', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#ec624c"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
+              "background": "#ea523a"
             },
             ".navbar-toggler": {
               "color": "#233443"
@@ -513,7 +514,7 @@
             "hideButtons": true,
             "sticky": false,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#ec624c",
             "fontSize": "0.8",
             "fontName": {
               "name": "Ubuntu",
@@ -522,16 +523,17 @@
             },
             "fontColor": "#233443"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home |</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Proyectos |</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Producto</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Editorial</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Gráfico</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Blog |</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Sobre mi |</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Contacto |</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home |</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Proyectos |</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"proyectos-producto.html\">Producto</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Editorial</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Gráfico</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Blog |</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Sobre mi |</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Contacto |</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/loguito-14-128x128.png",
               "class": "",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "logo Yulia Mykhaylovych Mykha Studio Design Portfolio",
               "link": "index.html",
-              "title": ""
+              "title": "Logo Mykha Studio",
+              "linkInNewWindow": false
             }
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
@@ -690,7 +692,7 @@
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#ec624c",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -711,7 +713,7 @@
             }
           },
           "text1": "<p><strong>Contáctame</strong>&nbsp; &nbsp;<span style=\"font-size: 1rem;\">&nbsp;—</span></p><p>hi@designmykha.com<br>(+34) 675 41 55 55</p>",
-          "text2": "<p><b>Proyectos actuales</b>&nbsp;&nbsp;&nbsp;&nbsp;—<br>Proyecto 1<br>Proyecto 2<br>Proyecto 3</p>",
+          "text2": "<p><b>Proyectos actuales</b>&nbsp;&nbsp;&nbsp;&nbsp;—</p><p>Proyecto 1<br>Proyecto 2<br>Proyecto 3</p>",
           "text3": "<p><strong>Sígueme por </strong>&nbsp;&nbsp;&nbsp;&nbsp;<strong>—</strong></p><p>Intagram<br><span style=\"font-size: 1rem;\">Linked-in<br></span><span style=\"font-size: 1rem;\">Facebook</span></p>",
           "alias": "purity/components",
           "_tags": [
@@ -735,7 +737,7 @@
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#ec624c",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
